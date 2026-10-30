@@ -1,0 +1,6 @@
+Sample_ID,Gene,Length,GC_Content,Organism
+S03,EGFR,1210,55.4,Human
+S04,MYC,1500,51.8,Human
+S06,KRAS,980,52.1,Human
+S07,EGFR,1210,55.4,Human
+S10,MYC,1500,51.8,Human
